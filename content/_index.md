@@ -18,6 +18,8 @@ Winamp or XMMS.
 
 With NitrousTracker, you can carry your XMs around in your DS and compose whenever and wherever you feel like it. "Tracking on a handheld console? Sounds like a pain in the ass." You might say. But because of the touchscreen and stylus of the DS, it's quite easy. You can compose your melodies using an on-screen keyboard, directly edit your patterns by making selections, copying and pasting - all with the stylus. And that's not where it ends: If you don't have any samples at hand, make your own with the DS's microphone. You can even replace the samples in existing songs with your own recorded ones. There are many possibilities already and there will be even more. 
 
+To learn more or share your creations, feel free to check out [the unofficial NitroTracker Discord](https://discord.gg/KdWJZHtGAU).
+
 ## Features
 
 * Composing with the stylus using an on-screen keyboard
