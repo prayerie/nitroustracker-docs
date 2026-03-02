@@ -107,3 +107,31 @@ is not possible.
 | 81 | Togglebutton background |
 | 82 | Togglebutton text (off) |
 | 83 | Togglebutton text (on) |
+| 84 | Piano full key gradient 1 |
+| 85 | Piano full key gradient 2 |
+| 86 | Piano half key gradient 1 |
+| 87 | Piano half key gradient 2 |
+| 88 | Piano full key highlight gradient 1 |
+| 89 | Piano full key highlight gradient 2 |
+| 90 | Piano half key highlight gradient 1 |
+| 91 | Piano half key highlight gradient 2 |
+| 92 | Piano outline |
+| 93 | Typewriter background |
+| 94 | Typewriter key |
+| 95 | Typewriter key label |
+| 96 | Typewriter modifier key |
+| 97 | Typewriter pressed key |
+| 98 | Typewriter modifier key label |
+| 99 | Sample editor zoom buttons |
+| 100 | Message box title gradient 1 |
+| 101 | Message box title gradient 2 |
+| 102 | Message box title text |
+| 103 | Effect keyboard button gradient 1 |
+| 104 | Effect keyboard button gradient 2 |
+| 105 | Effect keyboard disabled button gradient 1 |
+| 106 | Effect keyboard disabled button gradient 2 |
+| 107 | Effect keyboard big button label |
+| 108 | Effect keyboard command description label |
+| 109 | Effect keyboard disabled command description label |
+| 110 | Effect keyboard button parameter label X |
+| 111 | Effect keyboard button parameter label Y |
