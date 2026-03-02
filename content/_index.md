@@ -46,3 +46,4 @@ To learn more or share your creations, feel free to check out [the unofficial Ni
 
 ![Map the samples in your instrument to keyboard keys!](/nitroustracker/content/screenshots/mapsamples.png)
 ![Flip screens and edit your tracks with the stylus!](/nitroustracker/content/screenshots/patternedit.png)
+![Effect keyboard!](/nitroustracker/content/screenshots/fxkeyboard.png)
