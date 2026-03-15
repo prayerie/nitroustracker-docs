@@ -7,7 +7,7 @@ The final release of the original NitroTracker, version 0.4, came out in July 20
 The complete changelog is available [here](https://github.com/NitrousTracker/nitroustracker/blob/new/CHANGELOG.TXT) - the following summarizes the most important changes:
 
 - **Effect command input** and improved effect playback.
-- **Full DSi mode support**, including 16 MiB of RAM, built-in SD card support, and 12-bit microphone capture.
+- **Full DSi mode support**, including 16 MiB of RAM, built-in SD card support, and 16-bit microphone capture.
 - **Theming support** with many community-made themes bundled.
 - **USB MIDI support** with the use of [certain cartridges](../../manual/dsmi).
 - Many stability improvements and optimizations.
