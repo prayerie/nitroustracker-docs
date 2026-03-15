@@ -5,11 +5,12 @@ weight: 0
 
 ## Disclaimer
 
-NitrousTracker is still beta software. Therefore, bugs exist. As long as I
-have been playing with it now, it has behaved rather nicely. It has
-neither destroyed my memory card nor my DS. Anyway, if this happens to
-you, I won\'t take responsibility, i.e. you use NitrousTracker at your own
-risk!
+NitrousTracker is still beta software. Therefore, bugs exist. As long as we
+have been playing with it now, it has behaved rather nicely.
+
+Nevertheless, you use NitrousTracker at your own risk - there is **no warranty**
+for the program, to the extent permitted by applicable law. Check the [license](https://github.com/NitrousTracker/nitroustracker/blob/new/COPYING)
+for more information.
 
 ## About bugs
 
@@ -21,9 +22,8 @@ necessary including the song/sample that causes it.
 
 ## Important precautions
 
-In rare cases, it may happen that NitrousTracker corrupts your card and
-you lose all your songs. To prevent this, you should follow this
-important rule:
+While it's unlikely to happen, crashes in NitrousTracker or aging hardware issues may lead
+to data loss and/or corruption. To prevent this, you should follow this important rule:
 
 **Save early, save often!**
 
@@ -31,5 +31,5 @@ Also:
 
 **Regularly scan your card with scandisk or fsck!**
 
-The list of known issues / problems I\'m working on can be found in the
+The list of known issues / problems can be found on the
 [NitrousTracker issue tracker](https://github.com/NitrousTracker/nitroustracker/issues).
